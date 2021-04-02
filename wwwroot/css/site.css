@@ -84,5 +84,7 @@ body {
 
 .inner-body {
     background-color: #dce6f7;
+    border-style: solid;
+    border-color: #a1adc4;
 }
 
